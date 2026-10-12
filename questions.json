@@ -1,0 +1,1690 @@
+{
+  "questions": [
+    {
+      "id": "q-0001",
+      "question": {
+        "chinese": "飞机准时降落了吗？",
+        "pinyin": "Fēijī zhǔnshí jiàngluò le ma?",
+        "english": "Did the plane land on time?"
+      },
+      "choices": [
+        {
+          "chinese": "准时降落了，一分钟也没晚。",
+          "pinyin": "Zhǔnshí jiàngluò le, yì fēnzhōng yě méi wǎn.",
+          "english": "It landed right on time, not even a minute late."
+        },
+        {
+          "chinese": "这道菜有点儿甜。",
+          "pinyin": "Zhè dào cài yǒudiǎnr tián.",
+          "english": "This dish is a little sweet."
+        },
+        {
+          "chinese": "我明天去银行换钱。",
+          "pinyin": "Wǒ míngtiān qù yínháng huàn qián.",
+          "english": "I'm going to the bank to exchange money tomorrow."
+        },
+        {
+          "chinese": "外面下雨了，别忘了带伞。",
+          "pinyin": "Wàimiàn xià yǔ le, bié wàngle dài sǎn.",
+          "english": "It's raining outside, don't forget your umbrella."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "飞机",
+        "准时",
+        "降落"
+      ]
+    },
+    {
+      "id": "q-0002",
+      "question": {
+        "chinese": "海关检查得严不严？",
+        "pinyin": "Hǎiguān jiǎnchá de yán bu yán?",
+        "english": "Was customs strict?"
+      },
+      "choices": [
+        {
+          "chinese": "我每天早上跑步。",
+          "pinyin": "Wǒ měitiān zǎoshang pǎobù.",
+          "english": "I go running every morning."
+        },
+        {
+          "chinese": "比我想象的松多了，根本没打开我的行李。",
+          "pinyin": "Bǐ wǒ xiǎngxiàng de sōng duō le, gēnběn méi dǎkāi wǒ de xíngli.",
+          "english": "Much more relaxed than I imagined. They didn't even open my luggage."
+        },
+        {
+          "chinese": "我的同屋特别喜欢跳舞。",
+          "pinyin": "Wǒ de tóngwū tèbié xǐhuan tiàowǔ.",
+          "english": "My roommate really loves dancing."
+        },
+        {
+          "chinese": "请给我开一张发票。",
+          "pinyin": "Qǐng gěi wǒ kāi yì zhāng fāpiào.",
+          "english": "Please give me a receipt."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "海关",
+        "检查",
+        "严",
+        "想象",
+        "松",
+        "根本",
+        "打开",
+        "行李"
+      ]
+    },
+    {
+      "id": "q-0003",
+      "question": {
+        "chinese": "你对北京的第一印象怎么样？",
+        "pinyin": "Nǐ duì Běijīng de dì-yī yìnxiàng zěnmeyàng?",
+        "english": "What was your first impression of Beijing?"
+      },
+      "choices": [
+        {
+          "chinese": "我要一碗牛肉面。",
+          "pinyin": "Wǒ yào yì wǎn niúròu miàn.",
+          "english": "I'd like a bowl of beef noodles."
+        },
+        {
+          "chinese": "对不起，我今天得请假。",
+          "pinyin": "Duìbuqǐ, wǒ jīntiān děi qǐngjià.",
+          "english": "Sorry, I need to take the day off today."
+        },
+        {
+          "chinese": "很现代化，高速公路又宽又平，跟我想象的不一样。",
+          "pinyin": "Hěn xiàndàihuà, gāosù gōnglù yòu kuān yòu píng, gēn wǒ xiǎngxiàng de bù yíyàng.",
+          "english": "Very modern. The highways are wide and smooth, not what I imagined."
+        },
+        {
+          "chinese": "我们坐硬座去承德吧。",
+          "pinyin": "Wǒmen zuò yìngzuò qù Chéngdé ba.",
+          "english": "Let's take hard seats to Chengde."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "北京",
+        "对",
+        "印象",
+        "现代化",
+        "高速公路",
+        "宽",
+        "平",
+        "想象"
+      ]
+    },
+    {
+      "id": "q-0004",
+      "question": {
+        "chinese": "你昨天晚上睡得好吗？",
+        "pinyin": "Nǐ zuótiān wǎnshang shuì de hǎo ma?",
+        "english": "Did you sleep well last night?"
+      },
+      "choices": [
+        {
+          "chinese": "好啊，我们几点见面？",
+          "pinyin": "Hǎo a, wǒmen jǐ diǎn jiànmiàn?",
+          "english": "Sure, what time should we meet?"
+        },
+        {
+          "chinese": "北京是中国的首都。",
+          "pinyin": "Běijīng shì Zhōngguó de shǒudū.",
+          "english": "Beijing is the capital of China."
+        },
+        {
+          "chinese": "那个饭馆儿的菜很便宜。",
+          "pinyin": "Nàge fànguǎnr de cài hěn piányi.",
+          "english": "The food at that restaurant is cheap."
+        },
+        {
+          "chinese": "不太好，因为时差的关系，我一直睡不着。",
+          "pinyin": "Bú tài hǎo, yīnwèi shíchā de guānxi, wǒ yìzhí shuì bu zháo.",
+          "english": "Not really. Because of the jet lag, I just couldn't fall asleep."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "时差",
+        "关系",
+        "一直",
+        "睡着"
+      ]
+    },
+    {
+      "id": "q-0005",
+      "question": {
+        "chinese": "你住单人间还是双人间？",
+        "pinyin": "Nǐ zhù dānrénjiān háishi shuāngrénjiān?",
+        "english": "Are you in a single room or a double?"
+      },
+      "choices": [
+        {
+          "chinese": "双人间，不过我跟同屋很谈得来。",
+          "pinyin": "Shuāngrénjiān, búguò wǒ gēn tóngwū hěn tándelái.",
+          "english": "A double, but my roommate and I get along really well."
+        },
+        {
+          "chinese": "我坐出租汽车去王府井。",
+          "pinyin": "Wǒ zuò chūzū qìchē qù Wángfǔjǐng.",
+          "english": "I'm taking a taxi to Wangfujing."
+        },
+        {
+          "chinese": "这里的夏天特别热。",
+          "pinyin": "Zhèlǐ de xiàtiān tèbié rè.",
+          "english": "Summers here are especially hot."
+        },
+        {
+          "chinese": "我已经吃过午饭了。",
+          "pinyin": "Wǒ yǐjīng chīguo wǔfàn le.",
+          "english": "I've already had lunch."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "单人间",
+        "双人间",
+        "不过",
+        "同屋",
+        "谈得来"
+      ]
+    },
+    {
+      "id": "q-0006",
+      "question": {
+        "chinese": "服务员每天都来打扫房间吗？",
+        "pinyin": "Fúwùyuán měitiān dōu lái dǎsǎo fángjiān ma?",
+        "english": "Does housekeeping come to clean the room every day?"
+      },
+      "choices": [
+        {
+          "chinese": "我想买两张去大同的火车票。",
+          "pinyin": "Wǒ xiǎng mǎi liǎng zhāng qù Dàtóng de huǒchēpiào.",
+          "english": "I'd like to buy two train tickets to Datong."
+        },
+        {
+          "chinese": "对，还给我们换毛巾、整理床铺，简直像住旅馆一样。",
+          "pinyin": "Duì, hái gěi wǒmen huàn máojīn, zhěnglǐ chuángpù, jiǎnzhí xiàng zhù lǚguǎn yíyàng.",
+          "english": "Yes, and they change our towels and make our beds. It's practically like staying in a hotel."
+        },
+        {
+          "chinese": "他的中文说得越来越好了。",
+          "pinyin": "Tā de Zhōngwén shuō de yuèláiyuè hǎo le.",
+          "english": "His Chinese is getting better and better."
+        },
+        {
+          "chinese": "这个公园的门票不贵。",
+          "pinyin": "Zhège gōngyuán de ménpiào bú guì.",
+          "english": "Tickets to this park aren't expensive."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "打扫",
+        "换",
+        "毛巾",
+        "整理",
+        "床铺",
+        "简直",
+        "旅馆"
+      ]
+    },
+    {
+      "id": "q-0007",
+      "question": {
+        "chinese": "你们宿舍离商店远不远？",
+        "pinyin": "Nǐmen sùshè lí shāngdiàn yuǎn bu yuǎn?",
+        "english": "Is your dorm far from the shops?"
+      },
+      "choices": [
+        {
+          "chinese": "我昨天拉肚子了。",
+          "pinyin": "Wǒ zuótiān lā dùzi le.",
+          "english": "I had diarrhea yesterday."
+        },
+        {
+          "chinese": "我觉得中国菜比美国菜好吃。",
+          "pinyin": "Wǒ juéde Zhōngguó cài bǐ Měiguó cài hǎochī.",
+          "english": "I think Chinese food tastes better than American food."
+        },
+        {
+          "chinese": "不远，附近有很多饭馆儿和商店，方便极了。",
+          "pinyin": "Bù yuǎn, fùjìn yǒu hěn duō fànguǎnr hé shāngdiàn, fāngbiàn jí le.",
+          "english": "Not far. There are lots of restaurants and shops nearby. It's super convenient."
+        },
+        {
+          "chinese": "我从来没去过长城。",
+          "pinyin": "Wǒ cónglái méi qùguo Chángchéng.",
+          "english": "I've never been to the Great Wall."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "宿舍",
+        "离",
+        "饭馆儿",
+        "商店",
+        "方便",
+        "Adj. 极了"
+      ]
+    },
+    {
+      "id": "q-0008",
+      "question": {
+        "chinese": "你妈妈在电话里说什么了？",
+        "pinyin": "Nǐ māma zài diànhuà lǐ shuō shénme le?",
+        "english": "What did your mom say on the phone?"
+      },
+      "choices": [
+        {
+          "chinese": "这个红绿灯坏了。",
+          "pinyin": "Zhège hónglǜdēng huài le.",
+          "english": "This traffic light is broken."
+        },
+        {
+          "chinese": "我们点一个红烧茄子吧。",
+          "pinyin": "Wǒmen diǎn yí ge hóngshāo qiézi ba.",
+          "english": "Let's order the red-braised eggplant."
+        },
+        {
+          "chinese": "我每天早上都打太极拳。",
+          "pinyin": "Wǒ měitiān zǎoshang dōu dǎ tàijíquán.",
+          "english": "I do tai chi every morning."
+        },
+        {
+          "chinese": "她让我注意身体，别太累了。",
+          "pinyin": "Tā ràng wǒ zhùyì shēntǐ, bié tài lèi le.",
+          "english": "She told me to take care of myself and not wear myself out."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "电话",
+        "让",
+        "注意",
+        "身体"
+      ]
+    },
+    {
+      "id": "q-0009",
+      "question": {
+        "chinese": "你习惯早上洗澡了吗？",
+        "pinyin": "Nǐ xíguàn zǎoshang xǐzǎo le ma?",
+        "english": "Have you gotten used to showering in the morning?"
+      },
+      "choices": [
+        {
+          "chinese": "开始有点儿困难，现在已经习惯了。",
+          "pinyin": "Kāishǐ yǒudiǎnr kùnnan, xiànzài yǐjīng xíguàn le.",
+          "english": "It was a bit hard at first, but I'm used to it now."
+        },
+        {
+          "chinese": "这件衣服太贵了。",
+          "pinyin": "Zhè jiàn yīfu tài guì le.",
+          "english": "This piece of clothing is too expensive."
+        },
+        {
+          "chinese": "我们周末去颐和园吧。",
+          "pinyin": "Wǒmen zhōumò qù Yíhéyuán ba.",
+          "english": "Let's go to the Summer Palace this weekend."
+        },
+        {
+          "chinese": "前面那个人是我的同屋。",
+          "pinyin": "Qiánmiàn nàge rén shì wǒ de tóngwū.",
+          "english": "That person up ahead is my roommate."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "习惯",
+        "洗澡",
+        "开始",
+        "困难"
+      ]
+    },
+    {
+      "id": "q-0010",
+      "question": {
+        "chinese": "你怎么又迟到了？",
+        "pinyin": "Nǐ zěnme yòu chídào le?",
+        "english": "Why are you late again?"
+      },
+      "choices": [
+        {
+          "chinese": "这个菜是用豆腐做的。",
+          "pinyin": "Zhège cài shì yòng dòufu zuò de.",
+          "english": "This dish is made with tofu."
+        },
+        {
+          "chinese": "真抱歉，我早上起不来，以后一定注意。",
+          "pinyin": "Zhēn bàoqiàn, wǒ zǎoshang qǐ bu lái, yǐhòu yídìng zhùyì.",
+          "english": "I'm really sorry, I couldn't get up this morning. I'll definitely be careful from now on."
+        },
+        {
+          "chinese": "我的护照在行李里。",
+          "pinyin": "Wǒ de hùzhào zài xíngli lǐ.",
+          "english": "My passport is in my luggage."
+        },
+        {
+          "chinese": "北京的冬天很冷。",
+          "pinyin": "Běijīng de dōngtiān hěn lěng.",
+          "english": "Winters in Beijing are cold."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "迟到",
+        "抱歉",
+        "一定",
+        "注意"
+      ]
+    },
+    {
+      "id": "q-0011",
+      "question": {
+        "chinese": "你早上一定要喝咖啡吗？",
+        "pinyin": "Nǐ zǎoshang yídìng yào hē kāfēi ma?",
+        "english": "Do you absolutely have to have coffee in the morning?"
+      },
+      "choices": [
+        {
+          "chinese": "我坐地铁去学校。",
+          "pinyin": "Wǒ zuò dìtiě qù xuéxiào.",
+          "english": "I take the subway to school."
+        },
+        {
+          "chinese": "他在外事处工作。",
+          "pinyin": "Tā zài wàishìchù gōngzuò.",
+          "english": "He works in the foreign affairs office."
+        },
+        {
+          "chinese": "对，不喝咖啡我的头脑就不清楚，整天都没有精神。",
+          "pinyin": "Duì, bù hē kāfēi wǒ de tóunǎo jiù bù qīngchu, zhěngtiān dōu méiyǒu jīngshen.",
+          "english": "Yes. Without coffee my head isn't clear and I have no energy all day."
+        },
+        {
+          "chinese": "这个厕所很干净。",
+          "pinyin": "Zhège cèsuǒ hěn gānjìng.",
+          "english": "This restroom is very clean."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "一定",
+        "咖啡",
+        "头脑",
+        "清楚",
+        "整天",
+        "精神"
+      ]
+    },
+    {
+      "id": "q-0012",
+      "question": {
+        "chinese": "你脸色不太好，哪儿不舒服？",
+        "pinyin": "Nǐ liǎnsè bú tài hǎo, nǎr bù shūfu?",
+        "english": "You look pale. What's wrong?"
+      },
+      "choices": [
+        {
+          "chinese": "我想去王府井买东西。",
+          "pinyin": "Wǒ xiǎng qù Wángfǔjǐng mǎi dōngxi.",
+          "english": "I want to go shopping at Wangfujing."
+        },
+        {
+          "chinese": "这个房间有空调。",
+          "pinyin": "Zhège fángjiān yǒu kōngtiáo.",
+          "english": "This room has air conditioning."
+        },
+        {
+          "chinese": "我们一起去打羽毛球吧。",
+          "pinyin": "Wǒmen yìqǐ qù dǎ yǔmáoqiú ba.",
+          "english": "Let's go play badminton together."
+        },
+        {
+          "chinese": "我肚子疼，昨天晚上还拉肚子了。",
+          "pinyin": "Wǒ dùzi téng, zuótiān wǎnshang hái lā dùzi le.",
+          "english": "My stomach hurts, and I had diarrhea last night too."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "脸",
+        "舒服",
+        "肚子",
+        "疼",
+        "拉肚子"
+      ]
+    },
+    {
+      "id": "q-0013",
+      "question": {
+        "chinese": "你发烧了，要不要我陪你去医院？",
+        "pinyin": "Nǐ fāshāo le, yào bu yào wǒ péi nǐ qù yīyuàn?",
+        "english": "You have a fever. Do you want me to go to the hospital with you?"
+      },
+      "choices": [
+        {
+          "chinese": "好吧，麻烦你了，我自己去有点儿紧张。",
+          "pinyin": "Hǎo ba, máfan nǐ le, wǒ zìjǐ qù yǒudiǎnr jǐnzhāng.",
+          "english": "Okay, sorry for the trouble. I'm a little nervous going by myself."
+        },
+        {
+          "chinese": "这儿的烤鸭很有名。",
+          "pinyin": "Zhèr de kǎoyā hěn yǒumíng.",
+          "english": "The roast duck here is famous."
+        },
+        {
+          "chinese": "我在火车上认识了一个朋友。",
+          "pinyin": "Wǒ zài huǒchē shang rènshi le yí ge péngyou.",
+          "english": "I made a friend on the train."
+        },
+        {
+          "chinese": "我喜欢在公园里乘凉。",
+          "pinyin": "Wǒ xǐhuan zài gōngyuán lǐ chéngliáng.",
+          "english": "I like cooling off in the park."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "发烧",
+        "医院",
+        "麻烦",
+        "自己",
+        "紧张"
+      ]
+    },
+    {
+      "id": "q-0014",
+      "question": {
+        "chinese": "你昨天晚上怎么没睡好？",
+        "pinyin": "Nǐ zuótiān wǎnshang zěnme méi shuì hǎo?",
+        "english": "Why didn't you sleep well last night?"
+      },
+      "choices": [
+        {
+          "chinese": "他是从香港来的。",
+          "pinyin": "Tā shì cóng Xiānggǎng lái de.",
+          "english": "He's from Hong Kong."
+        },
+        {
+          "chinese": "房间里蚊子太多了，我胳膊上被叮了好几个包。",
+          "pinyin": "Fángjiān lǐ wénzi tài duō le, wǒ gēbo shang bèi dīng le hǎo jǐ ge bāo.",
+          "english": "There were way too many mosquitoes in the room. I got bitten all over my arms."
+        },
+        {
+          "chinese": "我们买两张门票吧。",
+          "pinyin": "Wǒmen mǎi liǎng zhāng ménpiào ba.",
+          "english": "Let's buy two admission tickets."
+        },
+        {
+          "chinese": "这个菜太辣了。",
+          "pinyin": "Zhège cài tài là le.",
+          "english": "This dish is too spicy."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "蚊子",
+        "胳膊",
+        "叮",
+        "好几...",
+        "包"
+      ]
+    },
+    {
+      "id": "q-0015",
+      "question": {
+        "chinese": "你下午怎么这么有精神？",
+        "pinyin": "Nǐ xiàwǔ zěnme zhème yǒu jīngshen?",
+        "english": "How come you're so full of energy this afternoon?"
+      },
+      "choices": [
+        {
+          "chinese": "这个司机开车开得太快了。",
+          "pinyin": "Zhège sījī kāichē kāi de tài kuài le.",
+          "english": "This driver drives way too fast."
+        },
+        {
+          "chinese": "我想换一些人民币。",
+          "pinyin": "Wǒ xiǎng huàn yìxiē rénmínbì.",
+          "english": "I'd like to exchange some RMB."
+        },
+        {
+          "chinese": "我中午睡了一个午觉。",
+          "pinyin": "Wǒ zhōngwǔ shuì le yí ge wǔjiào.",
+          "english": "I took a nap at noon."
+        },
+        {
+          "chinese": "我们的宿舍离食堂很近。",
+          "pinyin": "Wǒmen de sùshè lí shítáng hěn jìn.",
+          "english": "Our dorm is close to the dining hall."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "有精神",
+        "精神",
+        "午觉"
+      ]
+    },
+    {
+      "id": "q-0016",
+      "question": {
+        "chinese": "天这么热，你怎么还喝热水？",
+        "pinyin": "Tiān zhème rè, nǐ zěnme hái hē rèshuǐ?",
+        "english": "It's so hot out. Why are you still drinking hot water?"
+      },
+      "choices": [
+        {
+          "chinese": "我们明天去参观故宫吧。",
+          "pinyin": "Wǒmen míngtiān qù cānguān Gùgōng ba.",
+          "english": "Let's visit the Forbidden City tomorrow."
+        },
+        {
+          "chinese": "这辆大巴是去城里的。",
+          "pinyin": "Zhè liàng dàbā shì qù chénglǐ de.",
+          "english": "This bus goes into the city."
+        },
+        {
+          "chinese": "我的自行车坏了。",
+          "pinyin": "Wǒ de zìxíngchē huài le.",
+          "english": "My bike is broken."
+        },
+        {
+          "chinese": "我在中国住久了，也习惯喝热水了。",
+          "pinyin": "Wǒ zài Zhōngguó zhù jiǔ le, yě xíguàn hē rèshuǐ le.",
+          "english": "I've lived in China long enough that I'm used to drinking hot water too."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "热",
+        "久",
+        "习惯"
+      ]
+    },
+    {
+      "id": "q-0017",
+      "question": {
+        "chinese": "这儿的自来水能直接喝吗？",
+        "pinyin": "Zhèr de zìláishuǐ néng zhíjiē hē ma?",
+        "english": "Can you drink the tap water here straight?"
+      },
+      "choices": [
+        {
+          "chinese": "最好别直接喝，喝开水或者矿泉水吧。",
+          "pinyin": "Zuìhǎo bié zhíjiē hē, hē kāishuǐ huòzhě kuàngquánshuǐ ba.",
+          "english": "Better not drink it straight. Have boiled water or mineral water."
+        },
+        {
+          "chinese": "我每天坚持跑步。",
+          "pinyin": "Wǒ měitiān jiānchí pǎobù.",
+          "english": "I make a point of running every day."
+        },
+        {
+          "chinese": "那个景点人山人海。",
+          "pinyin": "Nàge jǐngdiǎn rénshān-rénhǎi.",
+          "english": "That tourist spot is packed with people."
+        },
+        {
+          "chinese": "我刚从银行回来。",
+          "pinyin": "Wǒ gāng cóng yínháng huílai.",
+          "english": "I just got back from the bank."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "自来水",
+        "直接",
+        "开水",
+        "或者",
+        "矿泉水"
+      ]
+    },
+    {
+      "id": "q-0018",
+      "question": {
+        "chinese": "师傅，去王府井要多长时间？",
+        "pinyin": "Shīfu, qù Wángfǔjǐng yào duō cháng shíjiān?",
+        "english": "Driver, how long does it take to get to Wangfujing?"
+      },
+      "choices": [
+        {
+          "chinese": "我要一盘清炒西兰花儿。",
+          "pinyin": "Wǒ yào yì pán qīngchǎo xīlánhuār.",
+          "english": "I'd like a plate of stir-fried broccoli."
+        },
+        {
+          "chinese": "不堵车的话，二十分钟就到了。",
+          "pinyin": "Bù dǔchē dehuà, èrshí fēnzhōng jiù dào le.",
+          "english": "If there's no traffic, we'll be there in twenty minutes."
+        },
+        {
+          "chinese": "我住的是双人间。",
+          "pinyin": "Wǒ zhù de shì shuāngrénjiān.",
+          "english": "I'm staying in a double room."
+        },
+        {
+          "chinese": "这本杂志很有意思。",
+          "pinyin": "Zhè běn zázhì hěn yǒu yìsi.",
+          "english": "This magazine is really interesting."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "王府井",
+        "堵车"
+      ]
+    },
+    {
+      "id": "q-0019",
+      "question": {
+        "chinese": "到了，前面红绿灯那儿下车吧。",
+        "pinyin": "Dào le, qiánmiàn hónglǜdēng nàr xià chē ba.",
+        "english": "We're here. Get out at the traffic light up ahead."
+      },
+      "choices": [
+        {
+          "chinese": "我觉得太极拳很难学。",
+          "pinyin": "Wǒ juéde tàijíquán hěn nán xué.",
+          "english": "I think tai chi is hard to learn."
+        },
+        {
+          "chinese": "我昨天吃坏肚子了。",
+          "pinyin": "Wǒ zuótiān chīhuài dùzi le.",
+          "english": "I ate something bad yesterday and got an upset stomach."
+        },
+        {
+          "chinese": "好，谢谢师傅，麻烦您给我一张发票。",
+          "pinyin": "Hǎo, xièxie shīfu, máfan nín gěi wǒ yì zhāng fāpiào.",
+          "english": "Okay, thanks. Could you give me a receipt, please?"
+        },
+        {
+          "chinese": "这里的春天风很大。",
+          "pinyin": "Zhèlǐ de chūntiān fēng hěn dà.",
+          "english": "It's very windy here in spring."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "红绿灯",
+        "下车",
+        "麻烦",
+        "发票"
+      ]
+    },
+    {
+      "id": "q-0020",
+      "question": {
+        "chinese": "您好，我想换钱。",
+        "pinyin": "Nín hǎo, wǒ xiǎng huàn qián.",
+        "english": "Hello, I'd like to exchange some money."
+      },
+      "choices": [
+        {
+          "chinese": "我的同屋是从台湾来的。",
+          "pinyin": "Wǒ de tóngwū shì cóng Táiwān lái de.",
+          "english": "My roommate is from Taiwan."
+        },
+        {
+          "chinese": "这个菜是清蒸的。",
+          "pinyin": "Zhège cài shì qīngzhēng de.",
+          "english": "This dish is steamed."
+        },
+        {
+          "chinese": "我们去公园下棋吧。",
+          "pinyin": "Wǒmen qù gōngyuán xiàqí ba.",
+          "english": "Let's go play chess in the park."
+        },
+        {
+          "chinese": "好的，请填一下这张单子，再给我看看您的护照。",
+          "pinyin": "Hǎo de, qǐng tián yíxià zhè zhāng dānzi, zài gěi wǒ kànkan nín de hùzhào.",
+          "english": "Sure. Please fill out this form, and let me see your passport."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "换",
+        "单子",
+        "护照"
+      ]
+    },
+    {
+      "id": "q-0021",
+      "question": {
+        "chinese": "现在骑自行车的人好像少了。",
+        "pinyin": "Xiànzài qí zìxíngchē de rén hǎoxiàng shǎo le.",
+        "english": "It seems like fewer people ride bikes these days."
+      },
+      "choices": [
+        {
+          "chinese": "是啊，私家车越来越多，交通堵塞也越来越严重。",
+          "pinyin": "Shì a, sījiāchē yuèláiyuè duō, jiāotōng dǔsè yě yuèláiyuè yánzhòng.",
+          "english": "Yeah, there are more and more private cars, and the traffic jams keep getting worse."
+        },
+        {
+          "chinese": "请给我来一杯茶。",
+          "pinyin": "Qǐng gěi wǒ lái yì bēi chá.",
+          "english": "A cup of tea for me, please."
+        },
+        {
+          "chinese": "他每天下午睡午觉。",
+          "pinyin": "Tā měitiān xiàwǔ shuì wǔjiào.",
+          "english": "He takes a nap every afternoon."
+        },
+        {
+          "chinese": "我在支票上签了字。",
+          "pinyin": "Wǒ zài zhīpiào shang qiān le zì.",
+          "english": "I signed the check."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "骑",
+        "自行车",
+        "私家车",
+        "越来越...",
+        "交通堵塞",
+        "严重"
+      ]
+    },
+    {
+      "id": "q-0022",
+      "question": {
+        "chinese": "在中国，怎么称呼不认识的年轻女人？",
+        "pinyin": "Zài Zhōngguó, zěnme chēnghu bú rènshi de niánqīng nǚrén?",
+        "english": "In China, how do you address a young woman you don't know?"
+      },
+      "choices": [
+        {
+          "chinese": "她丈夫在百货商场工作。",
+          "pinyin": "Tā zhàngfu zài bǎihuò shāngchǎng gōngzuò.",
+          "english": "Her husband works at a department store."
+        },
+        {
+          "chinese": "可以叫她“小姐”，正式场合叫“女士”比较合适。",
+          "pinyin": "Kěyǐ jiào tā “xiǎojiě”, zhèngshì chǎnghé jiào “nǚshì” bǐjiào héshì.",
+          "english": "You can call her \"xiaojie\"; on formal occasions \"nüshi\" is more appropriate."
+        },
+        {
+          "chinese": "我们改天再去长城吧。",
+          "pinyin": "Wǒmen gǎitiān zài qù Chángchéng ba.",
+          "english": "Let's go to the Great Wall another day."
+        },
+        {
+          "chinese": "我的行李太重了。",
+          "pinyin": "Wǒ de xíngli tài zhòng le.",
+          "english": "My luggage is too heavy."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "称呼",
+        "认识",
+        "年轻",
+        "小姐",
+        "正式",
+        "场合",
+        "女士",
+        "合适"
+      ]
+    },
+    {
+      "id": "q-0023",
+      "question": {
+        "chinese": "现在还有人互相叫“同志”吗？",
+        "pinyin": "Xiànzài hái yǒu rén hùxiāng jiào “tóngzhì” ma?",
+        "english": "Do people still call each other \"tongzhi\" (comrade) nowadays?"
+      },
+      "choices": [
+        {
+          "chinese": "我刚学会打太极拳。",
+          "pinyin": "Wǒ gāng xuéhuì dǎ tàijíquán.",
+          "english": "I just learned how to do tai chi."
+        },
+        {
+          "chinese": "火车上的乘客很多。",
+          "pinyin": "Huǒchē shang de chéngkè hěn duō.",
+          "english": "There are a lot of passengers on the train."
+        },
+        {
+          "chinese": "很少了，改革开放以后，渐渐被“先生”、“小姐”代替了。",
+          "pinyin": "Hěn shǎo le, gǎigé kāifàng yǐhòu, jiànjiàn bèi “xiānsheng”, “xiǎojiě” dàitì le.",
+          "english": "Rarely. After reform and opening up, it was gradually replaced by \"xiansheng\" and \"xiaojie\"."
+        },
+        {
+          "chinese": "这个西瓜很甜。",
+          "pinyin": "Zhège xīguā hěn tián.",
+          "english": "This watermelon is very sweet."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "同志",
+        "改革开放",
+        "渐渐",
+        "先生",
+        "小姐",
+        "代替"
+      ]
+    },
+    {
+      "id": "q-0024",
+      "question": {
+        "chinese": "你先生也在北京工作吗？",
+        "pinyin": "Nǐ xiānsheng yě zài Běijīng gōngzuò ma?",
+        "english": "Does your husband work in Beijing too?"
+      },
+      "choices": [
+        {
+          "chinese": "对，我每天都去公园跑步。",
+          "pinyin": "Duì, wǒ měitiān dōu qù gōngyuán pǎobù.",
+          "english": "Yes, I go running in the park every day."
+        },
+        {
+          "chinese": "这个景点的门票太贵了。",
+          "pinyin": "Zhège jǐngdiǎn de ménpiào tài guì le.",
+          "english": "Admission to this tourist spot is too expensive."
+        },
+        {
+          "chinese": "我们宿舍有两个浴室。",
+          "pinyin": "Wǒmen sùshè yǒu liǎng ge yùshì.",
+          "english": "Our dorm has two bathrooms."
+        },
+        {
+          "chinese": "对，我丈夫在一家银行当职员。",
+          "pinyin": "Duì, wǒ zhàngfu zài yì jiā yínháng dāng zhíyuán.",
+          "english": "Yes, my husband is a clerk at a bank."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "先生",
+        "丈夫",
+        "银行",
+        "职员"
+      ]
+    },
+    {
+      "id": "q-0025",
+      "question": {
+        "chinese": "请问，附近有厕所吗？",
+        "pinyin": "Qǐngwèn, fùjìn yǒu cèsuǒ ma?",
+        "english": "Excuse me, is there a restroom nearby?"
+      },
+      "choices": [
+        {
+          "chinese": "有，往前走一百米就是，而且是免费的。",
+          "pinyin": "Yǒu, wǎng qián zǒu yìbǎi mǐ jiù shì, érqiě shì miǎnfèi de.",
+          "english": "Yes, it's a hundred meters straight ahead, and it's free."
+        },
+        {
+          "chinese": "我很喜欢吃广东菜。",
+          "pinyin": "Wǒ hěn xǐhuan chī Guǎngdōng cài.",
+          "english": "I really like Cantonese food."
+        },
+        {
+          "chinese": "我的行李已经检查过了。",
+          "pinyin": "Wǒ de xíngli yǐjīng jiǎnchá guo le.",
+          "english": "My luggage has already been checked."
+        },
+        {
+          "chinese": "她今天请假了。",
+          "pinyin": "Tā jīntiān qǐngjià le.",
+          "english": "She took the day off today."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "厕所",
+        "而且",
+        "免费"
+      ]
+    },
+    {
+      "id": "q-0026",
+      "question": {
+        "chinese": "出门的时候要不要带卫生纸？",
+        "pinyin": "Chūmén de shíhou yào bu yào dài wèishēngzhǐ?",
+        "english": "Should I bring toilet paper when I go out?"
+      },
+      "choices": [
+        {
+          "chinese": "我想尝尝这儿的小吃。",
+          "pinyin": "Wǒ xiǎng chángchang zhèr de xiǎochī.",
+          "english": "I'd like to try the snacks here."
+        },
+        {
+          "chinese": "最好随身带着，有的厕所不提供。",
+          "pinyin": "Zuìhǎo suíshēn dàizhe, yǒude cèsuǒ bù tígōng.",
+          "english": "You'd better carry some with you. Some restrooms don't provide it."
+        },
+        {
+          "chinese": "他们正在谈恋爱。",
+          "pinyin": "Tāmen zhèngzài tán liàn'ài.",
+          "english": "They're dating."
+        },
+        {
+          "chinese": "我觉得北京的秋天最舒服。",
+          "pinyin": "Wǒ juéde Běijīng de qiūtiān zuì shūfu.",
+          "english": "I think autumn is the most pleasant season in Beijing."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "出门",
+        "带",
+        "卫生纸",
+        "随身",
+        "着",
+        "厕所",
+        "提供"
+      ]
+    },
+    {
+      "id": "q-0027",
+      "question": {
+        "chinese": "你习惯蹲着上厕所吗？",
+        "pinyin": "Nǐ xíguàn dūnzhe shàng cèsuǒ ma?",
+        "english": "Are you used to squat toilets?"
+      },
+      "choices": [
+        {
+          "chinese": "这家银行周末不开门。",
+          "pinyin": "Zhè jiā yínháng zhōumò bù kāimén.",
+          "english": "This bank isn't open on weekends."
+        },
+        {
+          "chinese": "我昨天去颐和园了。",
+          "pinyin": "Wǒ zuótiān qù Yíhéyuán le.",
+          "english": "I went to the Summer Palace yesterday."
+        },
+        {
+          "chinese": "不太习惯，蹲久了腿受不了。",
+          "pinyin": "Bú tài xíguàn, dūn jiǔ le tuǐ shòu bu liǎo.",
+          "english": "Not really. If I squat too long, my legs can't take it."
+        },
+        {
+          "chinese": "这些饺子是白菜猪肉的。",
+          "pinyin": "Zhèxiē jiǎozi shì báicài zhūròu de.",
+          "english": "These dumplings are cabbage and pork."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "习惯",
+        "蹲",
+        "着",
+        "上厕所",
+        "久",
+        "腿",
+        "受不了"
+      ]
+    },
+    {
+      "id": "q-0028",
+      "question": {
+        "chinese": "你去承德坐的是硬座还是软卧？",
+        "pinyin": "Nǐ qù Chéngdé zuò de shì yìngzuò háishi ruǎnwò?",
+        "english": "When you went to Chengde, did you take a hard seat or a soft sleeper?"
+      },
+      "choices": [
+        {
+          "chinese": "我的护照放在宿舍了。",
+          "pinyin": "Wǒ de hùzhào fàng zài sùshè le.",
+          "english": "I left my passport in the dorm."
+        },
+        {
+          "chinese": "我们去银行换点儿美元吧。",
+          "pinyin": "Wǒmen qù yínháng huàn diǎnr měiyuán ba.",
+          "english": "Let's go to the bank and exchange some US dollars."
+        },
+        {
+          "chinese": "那家饭馆儿的包子特别好吃。",
+          "pinyin": "Nà jiā fànguǎnr de bāozi tèbié hǎochī.",
+          "english": "The steamed buns at that restaurant are especially good."
+        },
+        {
+          "chinese": "硬座，又便宜又能观察中国人的生活。",
+          "pinyin": "Yìngzuò, yòu piányi yòu néng guānchá Zhōngguó rén de shēnghuó.",
+          "english": "Hard seat. It's cheap, and I got to observe everyday Chinese life."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "承德",
+        "硬座",
+        "软卧",
+        "观察",
+        "生活"
+      ]
+    },
+    {
+      "id": "q-0029",
+      "question": {
+        "chinese": "你在大同参观了什么地方？",
+        "pinyin": "Nǐ zài Dàtóng cānguān le shénme dìfang?",
+        "english": "What places did you visit in Datong?"
+      },
+      "choices": [
+        {
+          "chinese": "我们参观了云岗石窟，真是太壮观了。",
+          "pinyin": "Wǒmen cānguān le Yúngāng Shíkū, zhēn shì tài zhuàngguān le.",
+          "english": "We visited the Yungang Grottoes. They were truly magnificent."
+        },
+        {
+          "chinese": "我在食堂吃了一碗面。",
+          "pinyin": "Wǒ zài shítáng chī le yì wǎn miàn.",
+          "english": "I had a bowl of noodles in the dining hall."
+        },
+        {
+          "chinese": "这个城市的人口差不多有一千万。",
+          "pinyin": "Zhège chéngshì de rénkǒu chàbuduō yǒu yìqiān wàn.",
+          "english": "This city has a population of about ten million."
+        },
+        {
+          "chinese": "我同屋每天都在宿舍里打牌。",
+          "pinyin": "Wǒ tóngwū měitiān dōu zài sùshè lǐ dǎpái.",
+          "english": "My roommate plays cards in the dorm every day."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "大同",
+        "参观",
+        "云岗石窟"
+      ]
+    },
+    {
+      "id": "q-0030",
+      "question": {
+        "chinese": "坐火车旅行的时候，你尝过当地的特产吗？",
+        "pinyin": "Zuò huǒchē lǚxíng de shíhou, nǐ chángguo dāngdì de tèchǎn ma?",
+        "english": "When you traveled by train, did you try the local specialties?"
+      },
+      "choices": [
+        {
+          "chinese": "火车站离这儿不远。",
+          "pinyin": "Huǒchēzhàn lí zhèr bù yuǎn.",
+          "english": "The train station isn't far from here."
+        },
+        {
+          "chinese": "尝过，每个地方的小吃都有自己的风味儿。",
+          "pinyin": "Chángguo, měi ge dìfang de xiǎochī dōu yǒu zìjǐ de fēngwèir.",
+          "english": "I did. Every place's snacks have their own special flavor."
+        },
+        {
+          "chinese": "我们明天早上八点出发。",
+          "pinyin": "Wǒmen míngtiān zǎoshang bā diǎn chūfā.",
+          "english": "We leave at eight tomorrow morning."
+        },
+        {
+          "chinese": "我的同屋很会照顾人。",
+          "pinyin": "Wǒ de tóngwū hěn huì zhàogù rén.",
+          "english": "My roommate is really good at taking care of people."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "火车",
+        "旅行",
+        "尝",
+        "当地",
+        "特产",
+        "小吃",
+        "自己",
+        "风味儿"
+      ]
+    },
+    {
+      "id": "q-0031",
+      "question": {
+        "chinese": "周末颐和园人多吗？",
+        "pinyin": "Zhōumò Yíhéyuán rén duō ma?",
+        "english": "Is the Summer Palace crowded on weekends?"
+      },
+      "choices": [
+        {
+          "chinese": "我是坐出租汽车来的。",
+          "pinyin": "Wǒ shì zuò chūzū qìchē lái de.",
+          "english": "I came by taxi."
+        },
+        {
+          "chinese": "这条马路很宽。",
+          "pinyin": "Zhè tiáo mǎlù hěn kuān.",
+          "english": "This road is very wide."
+        },
+        {
+          "chinese": "人山人海，最好平时去。",
+          "pinyin": "Rénshān-rénhǎi, zuìhǎo píngshí qù.",
+          "english": "It's a sea of people. Better to go on a weekday."
+        },
+        {
+          "chinese": "她每天晚上十一点睡觉。",
+          "pinyin": "Tā měitiān wǎnshang shíyī diǎn shuìjiào.",
+          "english": "She goes to bed at eleven every night."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "颐和园",
+        "人山人海",
+        "平时"
+      ]
+    },
+    {
+      "id": "q-0032",
+      "question": {
+        "chinese": "早上公园里的老人都在做什么？",
+        "pinyin": "Zǎoshang gōngyuán lǐ de lǎorén dōu zài zuò shénme?",
+        "english": "What are all the old folks in the park doing in the morning?"
+      },
+      "choices": [
+        {
+          "chinese": "我在银行换了五百美元。",
+          "pinyin": "Wǒ zài yínháng huàn le wǔbǎi měiyuán.",
+          "english": "I exchanged five hundred US dollars at the bank."
+        },
+        {
+          "chinese": "这条路上经常堵车。",
+          "pinyin": "Zhè tiáo lù shang jīngcháng dǔchē.",
+          "english": "There are often traffic jams on this road."
+        },
+        {
+          "chinese": "我觉得四川菜太辣了。",
+          "pinyin": "Wǒ juéde Sìchuān cài tài là le.",
+          "english": "I think Sichuan food is too spicy."
+        },
+        {
+          "chinese": "有的打太极拳，有的跳舞，还有的遛鸟儿。",
+          "pinyin": "Yǒude dǎ tàijíquán, yǒude tiàowǔ, hái yǒude liù niǎor.",
+          "english": "Some do tai chi, some dance, and some walk their birds."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "打太极拳",
+        "跳舞",
+        "遛鸟儿"
+      ]
+    },
+    {
+      "id": "q-0033",
+      "question": {
+        "chinese": "今天又闷热又潮湿，晚上我们去哪儿乘凉？",
+        "pinyin": "Jīntiān yòu mēnrè yòu cháoshī, wǎnshang wǒmen qù nǎr chéngliáng?",
+        "english": "It's so hot and humid today. Where should we go to cool off tonight?"
+      },
+      "choices": [
+        {
+          "chinese": "去公园吧，湖边很凉快。",
+          "pinyin": "Qù gōngyuán ba, hú biān hěn liángkuai.",
+          "english": "Let's go to the park. It's nice and cool by the lake."
+        },
+        {
+          "chinese": "我们点一个三鲜汤吧。",
+          "pinyin": "Wǒmen diǎn yí ge sānxiān tāng ba.",
+          "english": "Let's order a three-delicacies soup."
+        },
+        {
+          "chinese": "我昨天去医院看病了。",
+          "pinyin": "Wǒ zuótiān qù yīyuàn kàn bìng le.",
+          "english": "I went to the hospital to see a doctor yesterday."
+        },
+        {
+          "chinese": "我的行李还没到。",
+          "pinyin": "Wǒ de xíngli hái méi dào.",
+          "english": "My luggage hasn't arrived yet."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "闷热",
+        "潮湿",
+        "乘凉"
+      ]
+    },
+    {
+      "id": "q-0034",
+      "question": {
+        "chinese": "下个周末你能帮我搬家吗？",
+        "pinyin": "Xià ge zhōumò nǐ néng bāng wǒ bānjiā ma?",
+        "english": "Can you help me move next weekend?"
+      },
+      "choices": [
+        {
+          "chinese": "这儿的自来水不能直接喝。",
+          "pinyin": "Zhèr de zìláishuǐ bù néng zhíjiē hē.",
+          "english": "You can't drink the tap water here straight."
+        },
+        {
+          "chinese": "真不好意思，那天我已经答应别人了。",
+          "pinyin": "Zhēn bù hǎoyìsi, nà tiān wǒ yǐjīng dāying biérén le.",
+          "english": "I'm really sorry, I've already promised someone else that day."
+        },
+        {
+          "chinese": "我觉得故宫的建筑很华丽。",
+          "pinyin": "Wǒ juéde Gùgōng de jiànzhù hěn huálì.",
+          "english": "I think the buildings in the Forbidden City are magnificent."
+        },
+        {
+          "chinese": "我们买两张硬座吧。",
+          "pinyin": "Wǒmen mǎi liǎng zhāng yìngzuò ba.",
+          "english": "Let's buy two hard-seat tickets."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "答应"
+      ]
+    },
+    {
+      "id": "q-0035",
+      "question": {
+        "chinese": "你觉得中国人为什么不喜欢直接拒绝别人？",
+        "pinyin": "Nǐ juéde Zhōngguó rén wèishénme bù xǐhuan zhíjiē jùjué biérén?",
+        "english": "Why do you think Chinese people don't like to turn others down directly?"
+      },
+      "choices": [
+        {
+          "chinese": "因为今天的天气太闷热了。",
+          "pinyin": "Yīnwèi jīntiān de tiānqì tài mēnrè le.",
+          "english": "Because the weather today is too muggy."
+        },
+        {
+          "chinese": "我觉得这个饭馆儿的菜不错。",
+          "pinyin": "Wǒ juéde zhège fànguǎnr de cài búcuò.",
+          "english": "I think the food at this restaurant is pretty good."
+        },
+        {
+          "chinese": "因为他们很讲究面子，怕对方不高兴。",
+          "pinyin": "Yīnwèi tāmen hěn jiǎngjiu miànzi, pà duìfāng bù gāoxìng.",
+          "english": "Because they care a lot about face and worry about upsetting the other person."
+        },
+        {
+          "chinese": "我明天要去银行办事。",
+          "pinyin": "Wǒ míngtiān yào qù yínháng bànshì.",
+          "english": "I have to go to the bank to take care of something tomorrow."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "直接",
+        "拒绝",
+        "讲究",
+        "面子",
+        "对方"
+      ]
+    },
+    {
+      "id": "q-0036",
+      "question": {
+        "chinese": "你一个月挣多少钱？",
+        "pinyin": "Nǐ yí ge yuè zhèng duōshao qián?",
+        "english": "How much do you make a month?"
+      },
+      "choices": [
+        {
+          "chinese": "我的同屋是学历史的。",
+          "pinyin": "Wǒ de tóngwū shì xué lìshǐ de.",
+          "english": "My roommate studies history."
+        },
+        {
+          "chinese": "这儿离长城不太远。",
+          "pinyin": "Zhèr lí Chángchéng bú tài yuǎn.",
+          "english": "It's not too far from here to the Great Wall."
+        },
+        {
+          "chinese": "我早上喜欢喝咖啡。",
+          "pinyin": "Wǒ zǎoshang xǐhuan hē kāfēi.",
+          "english": "I like to drink coffee in the morning."
+        },
+        {
+          "chinese": "不好意思，这是我的私事。",
+          "pinyin": "Bù hǎoyìsi, zhè shì wǒ de sīshì.",
+          "english": "Sorry, that's a private matter."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "私事"
+      ]
+    },
+    {
+      "id": "q-0037",
+      "question": {
+        "chinese": "我敬您一杯，祝您身体健康！",
+        "pinyin": "Wǒ jìng nín yì bēi, zhù nín shēntǐ jiànkāng!",
+        "english": "A toast to you. Here's to your good health!"
+      },
+      "choices": [
+        {
+          "chinese": "谢谢，干杯！",
+          "pinyin": "Xièxie, gānbēi!",
+          "english": "Thank you. Cheers!"
+        },
+        {
+          "chinese": "这件衣服是在百货商场买的。",
+          "pinyin": "Zhè jiàn yīfu shì zài bǎihuò shāngchǎng mǎi de.",
+          "english": "I bought this piece of clothing at a department store."
+        },
+        {
+          "chinese": "我昨天晚上没睡着。",
+          "pinyin": "Wǒ zuótiān wǎnshang méi shuìzháo.",
+          "english": "I couldn't fall asleep last night."
+        },
+        {
+          "chinese": "公园的门票五块钱。",
+          "pinyin": "Gōngyuán de ménpiào wǔ kuài qián.",
+          "english": "Admission to the park is five yuan."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "我敬您",
+        "健康",
+        "干杯"
+      ]
+    },
+    {
+      "id": "q-0038",
+      "question": {
+        "chinese": "我的手艺不好，都是些家常菜，请多吃点儿。",
+        "pinyin": "Wǒ de shǒuyì bù hǎo, dōu shì xiē jiāchángcài, qǐng duō chī diǎnr.",
+        "english": "I'm not much of a cook, it's all just home cooking, but please eat up."
+      },
+      "choices": [
+        {
+          "chinese": "我觉得这个城市太拥挤了。",
+          "pinyin": "Wǒ juéde zhège chéngshì tài yōngjǐ le.",
+          "english": "I think this city is too crowded."
+        },
+        {
+          "chinese": "您太客气了，这些菜做得真好吃！",
+          "pinyin": "Nín tài kèqi le, zhèxiē cài zuò de zhēn hǎochī!",
+          "english": "You're too modest. These dishes are delicious!"
+        },
+        {
+          "chinese": "我明天要去医院看大夫。",
+          "pinyin": "Wǒ míngtiān yào qù yīyuàn kàn dàifu.",
+          "english": "I have to go see a doctor at the hospital tomorrow."
+        },
+        {
+          "chinese": "我下个月要去香港旅行。",
+          "pinyin": "Wǒ xià ge yuè yào qù Xiānggǎng lǚxíng.",
+          "english": "I'm traveling to Hong Kong next month."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "手艺",
+        "家常菜"
+      ]
+    },
+    {
+      "id": "q-0039",
+      "question": {
+        "chinese": "今天这顿饭我来付吧。",
+        "pinyin": "Jīntiān zhè dùn fàn wǒ lái fù ba.",
+        "english": "Let me pay for the meal today."
+      },
+      "choices": [
+        {
+          "chinese": "我觉得早上洗澡很舒服。",
+          "pinyin": "Wǒ juéde zǎoshang xǐzǎo hěn shūfu.",
+          "english": "I find showering in the morning really refreshing."
+        },
+        {
+          "chinese": "那个景点的游客特别多。",
+          "pinyin": "Nàge jǐngdiǎn de yóukè tèbié duō.",
+          "english": "There are a lot of tourists at that spot."
+        },
+        {
+          "chinese": "不行不行，说好了今天我请客。",
+          "pinyin": "Bù xíng bù xíng, shuōhǎo le jīntiān wǒ qǐngkè.",
+          "english": "No, no, we agreed today is my treat."
+        },
+        {
+          "chinese": "我每天晚上给妈妈打电话。",
+          "pinyin": "Wǒ měitiān wǎnshang gěi māma dǎ diànhuà.",
+          "english": "I call my mom every evening."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "付",
+        "请客"
+      ]
+    },
+    {
+      "id": "q-0040",
+      "question": {
+        "chinese": "你们这儿的招牌菜是什么？",
+        "pinyin": "Nǐmen zhèr de zhāopáicài shì shénme?",
+        "english": "What's your signature dish here?"
+      },
+      "choices": [
+        {
+          "chinese": "我们这儿晚上九点关门。",
+          "pinyin": "Wǒmen zhèr wǎnshang jiǔ diǎn guānmén.",
+          "english": "We close at nine p.m."
+        },
+        {
+          "chinese": "厕所在楼上。",
+          "pinyin": "Cèsuǒ zài lóu shàng.",
+          "english": "The restroom is upstairs."
+        },
+        {
+          "chinese": "对不起，我们不收旅行支票。",
+          "pinyin": "Duìbuqǐ, wǒmen bù shōu lǚxíng zhīpiào.",
+          "english": "Sorry, we don't accept traveler's checks."
+        },
+        {
+          "chinese": "我们的北京烤鸭最有名，很多客人都点。",
+          "pinyin": "Wǒmen de Běijīng kǎoyā zuì yǒumíng, hěn duō kèrén dōu diǎn.",
+          "english": "Our Peking duck is the most famous. Lots of customers order it."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "招牌",
+        "烤鸭",
+        "有名",
+        "客人"
+      ]
+    },
+    {
+      "id": "q-0041",
+      "question": {
+        "chinese": "你吃得了辣的吗？",
+        "pinyin": "Nǐ chī de liǎo là de ma?",
+        "english": "Can you handle spicy food?"
+      },
+      "choices": [
+        {
+          "chinese": "吃得了，我最喜欢吃湘菜和川菜。",
+          "pinyin": "Chī de liǎo, wǒ zuì xǐhuan chī Xiāngcài hé Chuāncài.",
+          "english": "Sure can. Hunan and Sichuan food are my favorites."
+        },
+        {
+          "chinese": "我已经在单子上签字了。",
+          "pinyin": "Wǒ yǐjīng zài dānzi shang qiānzì le.",
+          "english": "I've already signed the form."
+        },
+        {
+          "chinese": "她丈夫是广东人。",
+          "pinyin": "Tā zhàngfu shì Guǎngdōng rén.",
+          "english": "Her husband is from Guangdong."
+        },
+        {
+          "chinese": "我们明天去长城吧。",
+          "pinyin": "Wǒmen míngtiān qù Chángchéng ba.",
+          "english": "Let's go to the Great Wall tomorrow."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "辣",
+        "湘",
+        "川"
+      ]
+    },
+    {
+      "id": "q-0042",
+      "question": {
+        "chinese": "我不吃肉，有什么菜可以点？",
+        "pinyin": "Wǒ bù chī ròu, yǒu shénme cài kěyǐ diǎn?",
+        "english": "I don't eat meat. What dishes can I order?"
+      },
+      "choices": [
+        {
+          "chinese": "坐出租汽车去只要十分钟。",
+          "pinyin": "Zuò chūzū qìchē qù zhǐyào shí fēnzhōng.",
+          "english": "It's only ten minutes by taxi."
+        },
+        {
+          "chinese": "可以点个红烧豆腐，再来个清炒西兰花儿。",
+          "pinyin": "Kěyǐ diǎn ge hóngshāo dòufu, zài lái ge qīngchǎo xīlánhuār.",
+          "english": "You could order the red-braised tofu, plus some stir-fried broccoli."
+        },
+        {
+          "chinese": "我觉得湖南菜比广东菜辣。",
+          "pinyin": "Wǒ juéde Húnán cài bǐ Guǎngdōng cài là.",
+          "english": "I think Hunan food is spicier than Cantonese food."
+        },
+        {
+          "chinese": "我下午要去上中文课。",
+          "pinyin": "Wǒ xiàwǔ yào qù shàng Zhōngwén kè.",
+          "english": "I have Chinese class this afternoon."
+        }
+      ],
+      "answer": 1,
+      "words": [
+        "红烧",
+        "豆腐",
+        "清炒",
+        "西兰花儿"
+      ]
+    },
+    {
+      "id": "q-0043",
+      "question": {
+        "chinese": "这儿过马路怎么这么危险！",
+        "pinyin": "Zhèr guò mǎlù zěnme zhème wēixiǎn!",
+        "english": "Crossing the street here is so dangerous!"
+      },
+      "choices": [
+        {
+          "chinese": "是啊，这家饭馆儿的菜太贵了。",
+          "pinyin": "Shì a, zhè jiā fànguǎnr de cài tài guì le.",
+          "english": "Yeah, the food at this restaurant is too expensive."
+        },
+        {
+          "chinese": "我上个月去了一趟承德。",
+          "pinyin": "Wǒ shàng ge yuè qù le yí tàng Chéngdé.",
+          "english": "I took a trip to Chengde last month."
+        },
+        {
+          "chinese": "是啊，你最好走过街天桥或者地下通道。",
+          "pinyin": "Shì a, nǐ zuìhǎo zǒu guòjiē tiānqiáo huòzhě dìxià tōngdào.",
+          "english": "I know. You'd better use the pedestrian bridge or the underpass."
+        },
+        {
+          "chinese": "我的咖啡已经凉了。",
+          "pinyin": "Wǒ de kāfēi yǐjīng liáng le.",
+          "english": "My coffee has already gone cold."
+        }
+      ],
+      "answer": 2,
+      "words": [
+        "马路",
+        "危险",
+        "过街天桥",
+        "或者",
+        "地下",
+        "通道"
+      ]
+    },
+    {
+      "id": "q-0044",
+      "question": {
+        "chinese": "车在斑马线前会停下来让行人吗？",
+        "pinyin": "Chē zài bānmǎxiàn qián huì tíng xiàlai ràng xíngrén ma?",
+        "english": "Do cars stop for pedestrians at crosswalks?"
+      },
+      "choices": [
+        {
+          "chinese": "这儿的小吃很有特色。",
+          "pinyin": "Zhèr de xiǎochī hěn yǒu tèsè.",
+          "english": "The snacks here are really distinctive."
+        },
+        {
+          "chinese": "我打算坐软卧去山西。",
+          "pinyin": "Wǒ dǎsuàn zuò ruǎnwò qù Shānxī.",
+          "english": "I'm planning to take a soft sleeper to Shanxi."
+        },
+        {
+          "chinese": "今天的天气预报说会下雪。",
+          "pinyin": "Jīntiān de tiānqì yùbào shuō huì xià xuě.",
+          "english": "Today's forecast says it's going to snow."
+        },
+        {
+          "chinese": "不一定，在这儿斑马线常常起不了什么作用。",
+          "pinyin": "Bù yídìng, zài zhèr bānmǎxiàn chángcháng qǐ bu liǎo shénme zuòyòng.",
+          "english": "Not necessarily. Around here, crosswalks often don't do much."
+        }
+      ],
+      "answer": 3,
+      "words": [
+        "斑马线",
+        "停",
+        "让",
+        "行人",
+        "一定",
+        "起不了",
+        "作用"
+      ]
+    },
+    {
+      "id": "q-0045",
+      "question": {
+        "chinese": "你觉得北京的交通乱不乱？",
+        "pinyin": "Nǐ juéde Běijīng de jiāotōng luàn bu luàn?",
+        "english": "Do you think Beijing's traffic is chaotic?"
+      },
+      "choices": [
+        {
+          "chinese": "看起来很乱，其实乱中有序。",
+          "pinyin": "Kàn qilai hěn luàn, qíshí luàn zhōng yǒu xù.",
+          "english": "It looks chaotic, but there's actually order within the chaos."
+        },
+        {
+          "chinese": "我觉得这家的饺子很好吃。",
+          "pinyin": "Wǒ juéde zhè jiā de jiǎozi hěn hǎochī.",
+          "english": "I think the dumplings at this place are delicious."
+        },
+        {
+          "chinese": "我每天早上六点起床。",
+          "pinyin": "Wǒ měitiān zǎoshang liù diǎn qǐchuáng.",
+          "english": "I get up at six every morning."
+        },
+        {
+          "chinese": "她给我们照了一张相。",
+          "pinyin": "Tā gěi wǒmen zhào le yì zhāng xiàng.",
+          "english": "She took a picture of us."
+        }
+      ],
+      "answer": 0,
+      "words": [
+        "交通",
+        "其实",
+        "乱中有序"
+      ]
+    }
+  ]
+}
